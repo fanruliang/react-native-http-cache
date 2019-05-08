@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-http-cache --save`
+`$ npm install react-native-http-cache3 --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-http-cache`
+`$ react-native link react-native-http-cache3`
 
 ### Manual installation
 
